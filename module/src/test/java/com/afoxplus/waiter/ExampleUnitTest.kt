@@ -1,4 +1,4 @@
-package com.afoxplus.module
+package com.afoxplus.waiter
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.afoxplus.module.demo
+package com.afoxplus.waiter
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
